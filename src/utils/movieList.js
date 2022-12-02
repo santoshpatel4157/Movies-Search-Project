@@ -15,7 +15,7 @@ export const movies = [
         id: 2,
         title: "The Cotton Club",
         year: "1984",
-        runtime: "127",
+        runtime: "127",~
         genres: ["Crime", "Drama", "Music"],
         director: "Francis Ford Coppola",
         actors: "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
