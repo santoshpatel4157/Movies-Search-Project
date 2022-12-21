@@ -8,11 +8,7 @@ const App = () => {
 
     function handleClick(e) {}
 
-    function handleChange(e) {
-        const {value} = e.target;
-        console.log(value);
-        setInputValue(value);
-    }
+    function handleChange(e) {}
 
     return (
         <div id="main">
